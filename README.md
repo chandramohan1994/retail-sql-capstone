@@ -1,2 +1,2 @@
-# retail-sql-capstone
-Retail Analytics project using SQL Server and Power BI
+Clear default README.md to replace with project README
+
