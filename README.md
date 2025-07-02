@@ -1,5 +1,7 @@
 Retail Sales Analytics Capstone Project (SQL + Power BI)
+
 📊 Project Summary
+
 This project focuses on analyzing retail sales data using SQL Server Management Studio (SSMS) and visualizing it using Power BI. The goal is to simulate a real-world retail analytics pipeline and derive actionable insights for business operations such as stock monitoring, sales trends, and pricing performance.
 
 🧰 Tech Stack
@@ -7,7 +9,9 @@ SQL Server 2021
 SQL Server Management Studio (SSMS)
 Power BI Desktop
 Windows OS
+
 📁 Dataset Overview
+
 The dataset is a daily log of product sales with the following columns:
 
 Column	Type	Description
